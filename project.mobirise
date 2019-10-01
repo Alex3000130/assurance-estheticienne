@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Assurances pour Esthéticiennes",
-    "currentPage": "index.html",
+    "currentPage": "Accueil.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,14 +34,16 @@
     "siteFonts": [],
     "uniqCompNum": 12,
     "versionPublish": "4.10.10",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "Accueil.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Assurances Pour Esthéticienne",
+        "meta_descr": "Des solutions d'assurance adaptées aux professionnels des soins de beauté et d'esthétique.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
